@@ -6,8 +6,11 @@
 
 /**
  *
- * @author dmosi
+ * @author flam3
  */
+
+// I attempted to round the system's output to two decimals, but I was unsuccesful.
+
 import java.util.Scanner;
 
 public class sales_tax {
