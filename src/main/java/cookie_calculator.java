@@ -6,7 +6,7 @@
 
 /**
  *
- * @author dmosi
+ * @author flam3
  */
 import java.util.Scanner;
 
