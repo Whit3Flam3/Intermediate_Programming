@@ -61,7 +61,6 @@ public class bar_chart {
 				System.out.print("*");
 				
 			}
-			// Newline
 			System.out.println("");
 		}
 		
