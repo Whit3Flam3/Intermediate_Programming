@@ -9,6 +9,7 @@
  * @author dmosi
  */
 import java.util.Scanner;
+
 public class is_prime {
      public static void main(String args[])
    {		
